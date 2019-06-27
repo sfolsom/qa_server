@@ -11,6 +11,10 @@ search:
     expect: 'http://sws.geonames.org/261707/'
     postion: 10
   -
+    query: New York
+    expect: 'http://sws.geonames.org/5128581/'
+    postion: 5
+  -
     query: Ithaca
     subauth: place
   -
